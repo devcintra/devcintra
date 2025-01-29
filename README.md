@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Olá, eu sou Felipe Cintra!
 
-<!--
-**devcintra/devcintra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **Objetivo:** Estudante de Análise e Desenvolvimento de Sistemas, buscando uma oportunidade como **Estagiário em Desenvolvimento** ou **Desenvolvedor Front-End Júnior**.
 
-Here are some ideas to get you started:
+💻 **Habilidades Técnicas:**  
+- **Front-end:** HTML, CSS, JavaScript, React, Angular  
+- **Banco de Dados:** Firebase, SQL  
+- **Ferramentas:** Git, GitHub, Pacote Office  
+- **Soft Skills:** Organização, proatividade, trabalho em equipe  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 **Projetos:**  
+🔹 [Landing Page Responsiva](https://github.com/devcintra) – HTML, CSS, JavaScript  
+🔹 [Sistema de Pedidos para Pizzaria](https://github.com/devcintra) – React, Firebase  
+🔹 [Aplicação de Tarefas](https://github.com/devcintra) – React  
+🔹 [Dashboard com Angular](https://github.com/devcintra) – Angular  
+
+📚 **Formação Acadêmica:**  
+- 🎓 **Análise e Desenvolvimento de Sistemas** – Universidade Nove de Julho (2024 - 2026)
+
+📩 **Entre em contato comigo!**  
+📧 Email: [felipecintra505@gmail.com](mailto:felipecintra505@gmail.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/felipe-cintra)  
+🐙 [GitHub](https://github.com/devcintra)  
+
+Sempre em busca de aprender e evoluir! 🚀
