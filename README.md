@@ -19,7 +19,7 @@
 
 📩 **Entre em contato comigo!**  
 📧 Email: [felipecintra505@gmail.com](mailto:felipecintra505@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/felipe-cintra)  
+🔗 [LinkedIn](https://www.linkedin.com/in/felipe-cintra-620092252?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 🐙 [GitHub](https://github.com/devcintra)  
 
 Sempre em busca de aprender e evoluir! 🚀
