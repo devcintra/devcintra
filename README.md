@@ -3,23 +3,25 @@
 🎯 **Objetivo:** Estudante de Análise e Desenvolvimento de Sistemas, buscando uma oportunidade como **Estagiário em Desenvolvimento** ou **Desenvolvedor Front-End Júnior**.
 
 💻 **Habilidades Técnicas:**  
-- **Front-end:** HTML, CSS, JavaScript, React, Angular  
-- **Banco de Dados:** Firebase, SQL  
-- **Ferramentas:** Git, GitHub, Pacote Office  
+- **Front-end:** HTML, CSS, JavaScript, React (em aprendizado), Angular (em aprendizado)  
+- **Back-end:** Firebase (em aprendizado), SQL  
+- **Ferramentas:** Git, GitHub, VS Code, Pacote Office  
 - **Soft Skills:** Organização, proatividade, trabalho em equipe  
 
-🚀 **Projetos:**  
-🔹 [Landing Page Responsiva](https://github.com/devcintra) – HTML, CSS, JavaScript  
-🔹 [Sistema de Pedidos para Pizzaria](https://github.com/devcintra) – React, Firebase  
-🔹 [Aplicação de Tarefas](https://github.com/devcintra) – React  
-🔹 [Dashboard com Angular](https://github.com/devcintra) – Angular  
+🚀 **Projetos em Destaque:**  
+🔹 [Calculadora Moderna](https://github.com/devcintra/Calculadora-Moderna) – HTML, CSS, JavaScript  
+🔹 [Jogo Detona Ralph](https://github.com/devcintra/Jogo-Detona-Ralph) – JavaScript  
+🔹 [Formulário Simples](https://github.com/devcintra/Formulario-Simples) – HTML, CSS  
+🔹 [Web-Pizzaria](https://github.com/devcintra/Web-Pizzaria) – HTML, CSS, JavaScript  
+🔹 [Landing Page com HTML e CSS](https://github.com/devcintra/Criando-Landing-Page-com-HTML-e-CSS) – HTML, CSS  
 
 📚 **Formação Acadêmica:**  
-- 🎓 **Análise e Desenvolvimento de Sistemas** – Universidade Nove de Julho (2024 - 2026)
+- 🎓 **Análise e Desenvolvimento de Sistemas** – Universidade Nove de Julho (2024 - 2026)  
 
 📩 **Entre em contato comigo!**  
 📧 Email: [felipecintra505@gmail.com](mailto:felipecintra505@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/felipe-cintra-620092252?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
+🔗 [LinkedIn](https://www.linkedin.com/in/felipe-cintra-620092252)  
 🐙 [GitHub](https://github.com/devcintra)  
 
 Sempre em busca de aprender e evoluir! 🚀
+
