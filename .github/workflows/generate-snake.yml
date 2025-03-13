@@ -16,17 +16,17 @@ jobs:
           github_user_name: devcintra  # Altere para o seu usuário do GitHub
           svg_out_path: dist/github-contribution-grid-snake.svg
 
-      - uses: actions/upload-artifact@v2
+      - uses: actions/upload-artifact@v4
         with:
           name: snake-artifact
           path: dist/github-contribution-grid-snake.svg
 
-      - uses: actions/checkout@v2
-      - uses: actions/setup-node@v2
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
       - run: |
           mkdir -p output
           cp dist/github-contribution-grid-snake.svg output/
-      - uses: actions/upload-artifact@v2
+      - uses: actions/upload-artifact@v4
         with:
           name: snake-output
           path: output
