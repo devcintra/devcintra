@@ -10,23 +10,29 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: Platane/snk@master
-        id: snake-gif
+      - name: Checkout do repositório
+        uses: actions/checkout@v4
+
+      - name: Configurar Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Gerar animação Snake
+        uses: Platane/snk@master
         with:
           github_user_name: devcintra  # Altere para o seu usuário do GitHub
-          svg_out_path: dist/github-contribution-grid-snake.svg
+          outputs: |
+            dist/github-contribution-grid-snake.svg
 
-      - uses: actions/upload-artifact@v4
-        with:
-          name: snake-artifact
-          path: dist/github-contribution-grid-snake.svg
+      - name: Criar pasta de saída
+        run: mkdir -p output
 
-      - uses: actions/checkout@v4
-      - uses: actions/setup-node@v4
-      - run: |
-          mkdir -p output
-          cp dist/github-contribution-grid-snake.svg output/
-      - uses: actions/upload-artifact@v4
+      - name: Mover arquivo gerado
+        run: cp dist/github-contribution-grid-snake.svg output/
+
+      - name: Fazer upload do artefato
+        uses: actions/upload-artifact@v4
         with:
-          name: snake-output
-          path: output
+          name: snake-animation
+          path: output/github-contribution-grid-snake.svg
