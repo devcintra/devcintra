@@ -15,8 +15,9 @@ Atualmente ampliando conhecimentos em **APIs REST, Spring Boot e Banco de Dados*
 ## 🛠️ Tech Stack  
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,html,css,js,ts,react,angular,git,github,vscode,mysql,postgres,docker,linux" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=java,spring,html,js,ts,git,idea,mysql,postgres,vscode,docker,linux,postman,golang" alt="Tech Stack" />
 </div>
+
 
 **📌 Atualmente aprendendo:**  
 - ☕ **Java & Spring Boot**  
