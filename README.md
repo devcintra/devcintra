@@ -52,7 +52,6 @@ Atualmente ampliando conhecimentos em **APIs REST, Spring Boot e Banco de Dados*
 ---
 
 ## 📌 Projetos  
-🔹 [API Livraria REST](https://github.com/devcintra/api-livraria) – Java, Spring Boot, PostgreSQL  
 🔹 [Sistema de Pedidos para Pizzaria](https://github.com/devcintra/Web-Pizzaria) – HTML, CSS, JavaScript  
 🔹 [Calculadora Moderna](https://github.com/devcintra/Calculadora-Moderna) – HTML, CSS, JavaScript  
 🔹 [Jogo Detona Ralph](https://github.com/devcintra/Jogo-Detona-Ralph) – JavaScript  
