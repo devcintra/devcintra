@@ -1,78 +1,150 @@
 # 👋 Olá, eu sou Felipe Cintra!
 
-🎯 **Objetivo:** Estudante de Análise e Desenvolvimento de Sistemas, focado em se tornar **Desenvolvedor Back-End Java**.  
-Atualmente ampliando conhecimentos em **APIs REST, Spring Boot e Banco de Dados**.
+🎯 **Objetivo:** Atuar na área de tecnologia, com foco em **Suporte Técnico**, **Desenvolvimento Back-End**, **Banco de Dados**, **Governança de TI** e **sistemas corporativos/ERP**.
+Atualmente ampliando conhecimentos em **Java, Node.js, APIs REST, SQL, Docker, Linux e soluções com Inteligência Artificial Generativa**.
 
 ---
 
-## 🚀 Sobre Mim  
-💻 Apaixonado por tecnologia e desenvolvimento de software.  
-📚 Atualmente estudando **Java, Spring Boot, SQL e APIs REST**.  
-🔎 Interesse em construir sistemas escaláveis e seguros, seguindo boas práticas de arquitetura.  
+## 🚀 Sobre Mim
+
+💻 Sou profissional de Tecnologia da Informação, com experiência em **suporte técnico, infraestrutura, administração de sistemas, governança de TI, segurança da informação e adequação à LGPD**.
+
+📚 Tenho formação em **Análise e Desenvolvimento de Sistemas** e sigo evoluindo tecnicamente em **Java, Node.js, SQL, APIs REST, Docker, Git/GitHub e Linux**.
+
+🏢 Tenho interesse em atuar com **sistemas corporativos e ERP**, especialmente em ambientes que envolvam **SAP**, suporte a usuários, análise de processos, sustentação de sistemas e integração entre áreas de negócio e tecnologia.
+
+🔎 Busco oportunidades para aplicar meus conhecimentos em projetos reais, apoiar usuários e equipes técnicas, resolver problemas com organização e contribuir para a melhoria contínua dos processos de TI.
+
+🤖 Também possuo experiência com **Inteligência Artificial Generativa**, criação de prompts, automação de fluxos, integração com APIs e documentação técnica.
 
 ---
 
-## 🛠️ Tech Stack  
+## 🛠️ Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,html,js,ts,git,idea,mysql,postgres,vscode,docker,linux,postman,golang" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=java,spring,html,css,js,ts,nodejs,express,git,github,idea,mysql,postgres,vscode,docker,linux,postman" alt="Tech Stack" />
 </div>
 
+---
 
-**📌 Atualmente aprendendo:**  
-- ☕ **Java & Spring Boot**  
-- 🗃️ **PostgreSQL / MySQL**  
-- 🐋 **Docker & Microsserviços**  
-- 🔒 **APIs REST & Segurança (JWT)**  
-- 🤖 **Integração com IA Generativa**
+## 📌 Atualmente Aprendendo
+
+* ☕ **Java e Spring Boot**
+* 🟢 **JavaScript, Node.js e Express**
+* 🗃️ **PostgreSQL e MySQL**
+* 🐋 **Docker**
+* 🔒 **APIs REST e autenticação com JWT**
+* 🖥️ **Linux / Lubuntu e terminal**
+* 🏢 **Conceitos de ERP, SAP e sistemas corporativos**
+* 🤖 **Integração com IA Generativa**
 
 ---
 
-## 📜 Certificações  
+## 📜 Certificações e Cursos
 
-🎓 **Oracle Cloud Infrastructure (OCI)**  
-- OCI Foundations Associate  
-- OCI Architect Associate  
-- OCI Developer Professional  
+🎓 **Oracle Cloud Infrastructure — OCI**
 
-🎓 **Udemy**  
-- Banco de Dados SQL do Zero ao Avançado  
-- JavaScript e TypeScript Full Stack (Node.js, Express, React, Redux)  
+* OCI Foundations Associate
+* OCI Architect Associate
 
-🎓 **Digital Innovation One (DIO)**  
-- Bootcamp Microsoft AI for Tech – GitHub Copilot  
-- Formação Git e GitHub  
-- Introdução à Lógica de Programação  
-- Bases de Prompt Engineering  
+🎓 **Udemy**
 
-🎓 **Outros Cursos**  
-- Pacote Office – Start Escola  
-- HTML5, CSS3, JavaScript (Curso em Vídeo / Alura)  
+* Banco de Dados SQL do Zero ao Avançado
+* JavaScript e TypeScript Full Stack — Node.js, Express, React e Redux
 
----
+🎓 **Digital Innovation One — DIO**
 
-## 📌 Projetos  
-🔹 [Sistema de Pedidos para Pizzaria](https://github.com/devcintra/Web-Pizzaria) – HTML, CSS, JavaScript  
-🔹 [Calculadora Moderna](https://github.com/devcintra/Calculadora-Moderna) – HTML, CSS, JavaScript  
-🔹 [Jogo Detona Ralph](https://github.com/devcintra/Jogo-Detona-Ralph) – JavaScript  
-🔹 [Landing Page Responsiva](https://github.com/devcintra/Criando-Landing-Page-com-HTML-e-CSS) – HTML, CSS  
+* Bootcamp Microsoft AI for Tech — GitHub Copilot
+* Formação Git e GitHub
+* Introdução à Lógica de Programação
+* Bases de Prompt Engineering
+
+🎓 **Outros Cursos**
+
+* Pacote Office — Start Escola
+* HTML5, CSS3 e JavaScript — Curso em Vídeo / Alura
 
 ---
 
-## 📚 Formação Acadêmica  
-🎓 **Análise e Desenvolvimento de Sistemas** – Universidade Nove de Julho (2024 - 2026)
+## 📌 Projetos
+
+🔹 [Sistema de Pedidos para Pizzaria](https://github.com/devcintra/Web-Pizzaria) — HTML, CSS e JavaScript
+
+🔹 [Calculadora Moderna](https://github.com/devcintra/Calculadora-Moderna) — HTML, CSS e JavaScript
+
+🔹 [Jogo Detona Ralph](https://github.com/devcintra/Jogo-Detona-Ralph) — JavaScript
+
+🔹 [Landing Page Responsiva](https://github.com/devcintra/Criando-Landing-Page-com-HTML-e-CSS) — HTML e CSS
+
+🔹 [Plataforma Psicólogos SaaS](https://github.com/devcintra/plataforma-psicologos-saas) — Node.js, Express, MySQL, Docker e API REST
 
 ---
 
-## 💼 Experiência Profissional  
-**DNAFY – Estagiário em Inteligência Artificial (Ago/2025 – Atual)**  
-- Criação e otimização de prompts (Prompt Engineering).  
-- Integração de soluções de IA Generativa com ferramentas externas.  
-- Documentação técnica e testes de validação.
+## 📚 Formação Acadêmica
+
+🎓 **Análise e Desenvolvimento de Sistemas**
+Universidade Nove de Julho — UNINOVE
+**Concluído em Junho de 2026**
+
+🎓 **Desenvolvedor Full Stack**
+Mate Academy
+**Em andamento**
 
 ---
 
-## 📊 Estatísticas do GitHub  
+## 💼 Experiência Profissional
+
+### **Embrasi — Júnior de Tecnologia da Informação**
+
+**Maio/2026 – Atual | Barueri, SP**
+
+* Suporte técnico especializado a usuários internos.
+* Sustentação da infraestrutura de TI e administração de sistemas.
+* Apoio em governança de TI, segurança da informação e conformidade com LGPD.
+* Atuação na melhoria contínua de processos e redução de incidentes.
+* Automação de demandas recorrentes para aumento de eficiência operacional.
+
+### **DNAFY — Assistente de IA Generativa — Estagiário**
+
+**Agosto/2025 – Fevereiro/2026**
+
+* Engenharia de prompts e otimização de modelos de linguagem.
+* Desenvolvimento e manutenção de fluxos de automação com IA Generativa.
+* Integração de APIs de inteligência artificial em sistemas e aplicações.
+* Documentação técnica, testes e validação de soluções.
+
+### **Metrô de São Paulo — Jovem Aprendiz**
+
+**Janeiro/2024 – Janeiro/2025**
+
+* Apoio administrativo e operacional em ambiente corporativo.
+* Organização de documentos, atendimento e suporte em rotinas internas.
+* Desenvolvimento de comunicação, organização e trabalho em equipe.
+
+---
+
+## 🧠 Conhecimentos Complementares
+
+* Suporte Técnico N1/N2
+* Governança de TI
+* Segurança da Informação
+* LGPD
+* Administração de sistemas
+* Git e GitHub
+* Lógica de programação
+* APIs REST
+* Banco de dados relacional
+* Terminal Linux
+* Docker básico
+* Postman
+* Noções de sistemas corporativos e ERP
+* Interesse em SAP
+* Prompt Engineering
+* Inteligência Artificial Generativa
+
+---
+
+## 📊 Estatísticas do GitHub
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devcintra&show_icons=true&theme=dracula"/>
@@ -80,11 +152,18 @@ Atualmente ampliando conhecimentos em **APIs REST, Spring Boot e Banco de Dados*
 
 ---
 
-## 📩 Entre em Contato  
+## 📩 Entre em Contato
+
 <div align="center">
-  <a href="mailto:felipecintra505@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/felipe-cintra-620092252"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/devcintra"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="mailto:felipecintra505@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/felipe-cintra505/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Devcintra">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 </div>
 
 ---
