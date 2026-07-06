@@ -1,7 +1,8 @@
 # 👋 Olá, eu sou Felipe Cintra!
 
-🎯 **Objetivo:** Atuar na área de tecnologia, com foco em **Suporte Técnico**, **Desenvolvimento Back-End**, **Banco de Dados**, **Governança de TI** e **sistemas corporativos/ERP**.
-Atualmente ampliando conhecimentos em **Java, Node.js, APIs REST, SQL, Docker, Linux e soluções com Inteligência Artificial Generativa**.
+🎯 **Objetivo:** Atuar na área de tecnologia, com foco em **Suporte Técnico**, **Sistemas Corporativos/ERP**, **Banco de Dados**, **Governança de TI**, **Automação de Processos** e **soluções com Inteligência Artificial**.
+
+Atualmente estou ampliando meus conhecimentos em **Node.js, APIs REST, SQL, Docker, Linux/Lubuntu, Git/GitHub, suporte a sistemas e conceitos de ERP/SAP**.
 
 ---
 
@@ -9,7 +10,9 @@ Atualmente ampliando conhecimentos em **Java, Node.js, APIs REST, SQL, Docker, L
 
 💻 Sou profissional de Tecnologia da Informação, com experiência em **suporte técnico, infraestrutura, administração de sistemas, governança de TI, segurança da informação e adequação à LGPD**.
 
-📚 Tenho formação em **Análise e Desenvolvimento de Sistemas** e sigo evoluindo tecnicamente em **Java, Node.js, SQL, APIs REST, Docker, Git/GitHub e Linux**.
+📚 Tenho formação em **Análise e Desenvolvimento de Sistemas** e sigo evoluindo tecnicamente em **Node.js, JavaScript, SQL, APIs REST, Docker, Git/GitHub e Linux**.
+
+🖥️ Utilizo o **Lubuntu** como meu sistema operacional principal. É nele que estudo, desenvolvo projetos, rodo aplicações, uso terminal, instalo ferramentas, testo sistemas e pratico minha evolução técnica no dia a dia.
 
 🏢 Tenho interesse em atuar com **sistemas corporativos e ERP**, especialmente em ambientes que envolvam **SAP**, suporte a usuários, análise de processos, sustentação de sistemas e integração entre áreas de negócio e tecnologia.
 
@@ -22,21 +25,41 @@ Atualmente ampliando conhecimentos em **Java, Node.js, APIs REST, SQL, Docker, L
 ## 🛠️ Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,html,css,js,ts,nodejs,express,git,github,idea,mysql,postgres,vscode,docker,linux,postman" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,express,react,git,github,mysql,postgres,vscode,docker,linux,postman" alt="Tech Stack" />
 </div>
 
 ---
 
 ## 📌 Atualmente Aprendendo
 
-* ☕ **Java e Spring Boot**
 * 🟢 **JavaScript, Node.js e Express**
 * 🗃️ **PostgreSQL e MySQL**
 * 🐋 **Docker**
-* 🔒 **APIs REST e autenticação com JWT**
+* 🔒 **APIs REST e autenticação**
 * 🖥️ **Linux / Lubuntu e terminal**
 * 🏢 **Conceitos de ERP, SAP e sistemas corporativos**
+* 🧩 **Suporte técnico, sustentação de sistemas e análise de processos**
 * 🤖 **Integração com IA Generativa**
+
+---
+
+## 🖥️ Ambiente de Desenvolvimento
+
+Atualmente utilizo o **Lubuntu**, uma distribuição Linux baseada no Ubuntu, como meu sistema operacional principal.
+
+No Lubuntu, realizo meus estudos e projetos práticos, utilizando ferramentas como:
+
+* Terminal Linux
+* VS Code
+* Git e GitHub
+* Node.js
+* Docker
+* MySQL e PostgreSQL
+* Postman
+* Navegadores e ferramentas de teste
+* Ambientes locais de desenvolvimento
+
+Esse ambiente me ajuda a desenvolver mais familiaridade com **Linux, linha de comando, instalação de dependências, execução de projetos, configuração de ambiente e resolução de problemas técnicos**.
 
 ---
 
@@ -135,20 +158,15 @@ Mate Academy
 * APIs REST
 * Banco de dados relacional
 * Terminal Linux
+* Lubuntu como ambiente principal
 * Docker básico
 * Postman
 * Noções de sistemas corporativos e ERP
 * Interesse em SAP
+* Sustentação de sistemas
+* Análise de processos
 * Prompt Engineering
 * Inteligência Artificial Generativa
-
----
-
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devcintra&show_icons=true&theme=dracula"/>
-</div>
 
 ---
 
@@ -169,5 +187,4 @@ Mate Academy
 ---
 
 ![Snake animation](https://github.com/devcintra/devcintra/blob/output/github-contribution-grid-snake-dark.svg)
-
 
